@@ -1,0 +1,64 @@
+{
+  "tests": [
+    {
+      "name": "test_link",
+      "setup": "",
+      "run": "python3 auto_grader.py test_link",
+      "input": "test_link",
+      "output": "1",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "test_preprocess",
+      "setup": "",
+      "run": "python3 auto_grader.py test_preprocess",
+      "input": "test_preprocess",
+      "output": "1",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "test_build_lm",
+      "setup": "",
+      "run": "python3 auto_grader.py test_build_lm",
+      "input": "test_build_lm",
+      "output": "1",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 25
+    },
+    {
+      "name": "test_eval",
+      "setup": "",
+      "run": "python3 auto_grader.py test_eval",
+      "input": "test_eval",
+      "output": "1",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 30
+    },
+    {
+      "name": "test_match",
+      "setup": "",
+      "run": "python3 auto_grader.py test_match",
+      "input": "test_match",
+      "output": "1",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "test_generate",
+      "setup": "",
+      "run": "python3 auto_grader.py test_generate",
+      "input": "test_generate",
+      "output": "1",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}

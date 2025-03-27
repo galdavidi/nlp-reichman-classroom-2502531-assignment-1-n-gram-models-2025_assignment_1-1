@@ -1,0 +1,6 @@
+*.ckpt
+*.pt
+*.pth
+**cache**
+**__pycache__**
+**__ds_store**
