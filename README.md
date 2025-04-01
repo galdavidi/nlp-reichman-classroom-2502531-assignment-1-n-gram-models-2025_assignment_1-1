@@ -1,9 +1,8 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/6acfvT8Y)
+[Review Assignment Due Date](https://classroom.github.com/a/eZP-BWL5)
 # Assignment 1 
 
 ## Your Implementation
-Please create a local copy of this template Colab's Notebook:
-https://colab.research.google.com/drive/1dsBboORX4kIYbve89AFGrg9lYoxOlN1H?usp=sharing
+Please create a local copy of [this template Colab's Notebook](https://colab.research.google.com/drive/1Py-fh9G4R5NruLc55T-diLOWE0xRvzXH?usp=sharing).
 
 The assignment's instructions are there; follow the notebook.
 
