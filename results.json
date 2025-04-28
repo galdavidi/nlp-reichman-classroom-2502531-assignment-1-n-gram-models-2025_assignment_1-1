@@ -14,13 +14,22 @@
     "en_on_tl": 75.36,
     "en_on_nl": 64.91
   },
+  "test_match": {
+    "df_shape": [
+      256,
+      4
+    ],
+    "en_en_3": 28.469276816919493,
+    "en_tl_3": 75.35500762666531,
+    "en_nl_3": 64.9094324264672
+  },
   "test_generate": {
-    "english_2_gram": "I ampsT m yo hertomy",
-    "english_3_gram": "I amb's isCuote a somery",
-    "english_4_gram": "I Lover Havid \"the play fa",
-    "spanish_2_gram": "Soy ps mo dexis s:/en v",
-    "spanish_3_gram": "Soy gra quien\u00f3n, ficel ",
-    "french_2_gram": "Je suis: chonus SCFPraio/tp",
-    "french_3_gram": "Je suisez. En sun il CO - o"
+    "english_2_gram": "I amieBnatos ilnt Hqke f",
+    "english_3_gram": "I am btwe @liond quzQXAV",
+    "english_4_gram": "I Love #Pro, burnedPalese ",
+    "spanish_2_gram": "Soy @Ls://t. | @j",
+    "spanish_3_gram": "Soy. SuI13100 pel forec",
+    "french_2_gram": "Je suisuiriev: Lierefit'\u00e9pe",
+    "french_3_gram": "Je suisaveux de https://t.c"
   }
 }
